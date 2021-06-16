@@ -3,9 +3,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=erik-123&hide=stars,issues&count_private=true&show_icons=true"/>
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erik-123&layout=compact" />
-</a>
+</a> -->
 
 <!--<a href="https://github.com/erik-123?tab=repositories">
   <img width="500px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=erik-123&count_private=true&layout=compact&hide=makefile,shell&hide_title=true&hide_border=true" />
